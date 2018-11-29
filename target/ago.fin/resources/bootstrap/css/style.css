@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.item-navbar{
+	background-color: red;
+}
+
+.navbar {
+	padding: 15px !important;
+	padding-left: 100px !important;
+	padding-top: 20px !important;
+	position: relative;
+}
+
+a:hover{
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	transition: .3s;
+	background: #c4c4c4;
+}
+
+a{
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+	transition: .3s;
+}
+

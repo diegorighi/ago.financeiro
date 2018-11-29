@@ -1,0 +1,8 @@
+br\com\ago\financeiro\controller\HomeService.class
+br\com\ago\financeiro\service\ConfigurationService.class
+br\com\ago\financeiro\controller\HomeController.class
+br\com\ago\financeiro\configuration\JPAConfiguration.class
+br\com\ago\financeiro\model\Menu.class
+br\com\ago\financeiro\dao\MenuDAO.class
+br\com\ago\financeiro\configuration\AppWebConfiguration.class
+br\com\ago\financeiro\configuration\ServletSpringMvc.class
